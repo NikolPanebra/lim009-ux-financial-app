@@ -1,13 +1,13 @@
 # Fintech App: **Tus Finanzas**
 
-## OBJETIVOS INICIALES DEL PROYECTO
+## Objetivos iniciales del proyecto
 *	Validar la investigación previamente hecha. 
 * Testear la versión actual de Tus Finanzas.
 *	Traducir la data. 
 *	Presentar mejoras a la solución actual en base a las conclusiones de los anteriores. 
 
-## PROBLEMAS ENCONTRADOS
-### A NIVEL DE USUARIO
+## Proceso de rediseño
+### con respecto al usuario
 Los perfiles que nos dio el cliente eran dos. La primera, Fiorella, recién ha cumplido la mayoría de edad y está muy familiarizada con la dependencia tecnológica.  Por otro lado, el segundo, Diego, es profesional e independiente, y está relacionado con la tecnología solo lo suficiente. En común tenemos que ambos vienen de una clase social media para arriba, son curiosos y sociables, y les gustaría ahorrar, pero no tienen el control sobre sus gastos.
 Con el propósito de validar estos perfiles, hicimos 5 entrevistas a personas de 18 a 23 años, y otras 5 entrevistas a personas de 29 a 34 años. Estas entrevistas nos arrojaron perfiles con nuevas y adicionales características: el perfil de usuario más joven era inexperta en áreas financieras, y no tiene metas claras de ahorro, ya que el ahorro no es su mayor preocupación; adicionalmente, el segundo perfil es una persona instruida, con ansias de cubrir sus necesidades de autorrealización, por lo tanto tiene metas bien definidas y con ellas, una voluntad disciplinada para ver cumplidos sus objetivos. 
 
