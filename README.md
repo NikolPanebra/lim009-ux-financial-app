@@ -26,14 +26,14 @@ Este perfil se pudo determinar gracias al [Affinity Map ](https://miro.com/welco
 
 Gracias a esta herramienta descubrimos que Piero quiere ahorrar, pero primero debe tener bajo control sus egresos; y para que la app cumpla con sus objetivos de ahorro, debe, entonces, cubrir la necesidad de Piero en cuanto al control de gastos para que él pueda empezar a ahorrar. Por añadidura, la relación entre la app y el usuario debe aparentar ser más fuerte a comparación del banco con la app, en orden de generar confianza a Piero y así, su fidelidad. 
 
-### Con respecto a la app
+###Reespecto a la app
 Paralelamente, se testeó virtual y presencialmente el prototipo de alta fidelidad, donde la herramienta de testeo virtual, Maze, nos arrojaba data de las áreas de mejora y el testeo presencial nos indicaba de forma más específica los puntos donde el usuario podía no tener una buena experiencia en la aplicación. Estos hallazgos se verían reflejados luego en la herramienta de análisis mental del cliente llamado [Customer Jouney Map](https://www.figma.com/file/dZtpM4MqqIQvzAmyRNAbtTWj/App-Financiera-Investigaci%C3%B3n.?node-id=3%3A114).
 
 ![Testeo virtual en Maze](./imgs/maze.jpg) ![Testeo Jois](./imgs/PrincesaHerbaLifeTest.jpg)
 
-## Prototipo Navegable de Tus Finanzas
+## Prototipo navegable de ***Tus Finanzas***
 [Aquí puede interactuar con el prototipo navegable](https://marvelapp.com/i3563d4/screen/58248654)
 
-![tusfinanzas2.0](./imgs/tusfinanzas1.png) 
+![tusfinanzas2.0](./imgs/3en1.png) 
 
-![tusfinanzas2.0](./imgs/ahorros.png)
+
